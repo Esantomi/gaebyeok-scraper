@@ -18,5 +18,5 @@
 ## 참고
 - `connection reset by peer` error가 뜰 경우, 적당히 `time.sleep(round(random.uniform(3, 5), 2))` 삽입 요망.
 
-## 결과
-![image](https://user-images.githubusercontent.com/61646760/165782534-3979624d-a21f-46ad-9e9e-37fab998383a.png)
+## 데이터 미리 보기
+![image](https://user-images.githubusercontent.com/61646760/166422144-dd596460-249d-4879-9307-3b0b17ae0246.png)
